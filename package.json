@@ -1,0 +1,19 @@
+{
+  "name": "entrega2coder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.3",
+    "fs": "^0.0.1-security",
+    "socket.io": "^4.7.5"
+  }
+}
